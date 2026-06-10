@@ -49,7 +49,7 @@ O projeto segue uma sequência:
 - Em geral, predominam resellers, enquanto manufacturers aparecem mais no segmento industry. Nos perfis online, há uma leve tendência de menos fabricantes em portes maiores, mas sem um padrão consistente.
 
 Os resultados estão consolidados em um dashboard interativo no Metabase, com os cinco gráficos que respondem às perguntas do projeto.
-[https://balmy-tarpon.metabaseapp.com/public/dashboard/8eda8f56-c7d6-42ae-a27e-aaf25b14f58a]
+ [https://balmy-tarpon.metabaseapp.com/public/dashboard/8eda8f56-c7d6-42ae-a27e-aaf25b14f58a]
 
 ## Recomendações
 
@@ -64,4 +64,4 @@ Os resultados estão consolidados em um dashboard interativo no Metabase, com os
 
 ## Dados
 
-Olist Marketing Funnel Dataset, disponível publicamente no Kaggle.[https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist]
+Olist Marketing Funnel Dataset, disponível publicamente no Kaggle. [https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist]
