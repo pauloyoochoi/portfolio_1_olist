@@ -48,7 +48,7 @@ O projeto segue uma sequência:
 - Não houve mudança relevante no perfil dos leads convertidos. Predominam os online_medium, seguidos por online_big, industry e offline, com distribuição estável ao longo de 2018.
 - Em geral, predominam resellers, enquanto manufacturers aparecem mais no segmento industry. Nos perfis online, há uma leve tendência de menos fabricantes em portes maiores, mas sem um padrão consistente.
 
-Os resultados estão consolidados em um dashboard interativo no Metabase, com os cinco gráficos que respondem às perguntas de negócio.
+Os resultados estão consolidados em um dashboard interativo no Metabase, com os cinco gráficos que respondem às perguntas do projeto.
 [https://balmy-tarpon.metabaseapp.com/public/dashboard/8eda8f56-c7d6-42ae-a27e-aaf25b14f58a]
 
 ## Recomendações
